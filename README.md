@@ -79,15 +79,15 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo `LICENSE` para 
 
 # Projeto Educacional: Simulação de Keylogger em Python
 
-## 📋 Visão Geral
+## Visão Geral
 
 Este projeto apresenta uma implementação educacional de um keylogger em Python, desenvolvido em um **ambiente controlado de estudo** para fins de aprendizado em cibersegurança. O projeto demonstra como keyloggers funcionam, implementa técnicas de captura de teclas, ocultação e envio remoto de dados, além de documentar medidas de defesa contra essas ameaças.
 
-**⚠️ AVISO IMPORTANTE**: Este projeto é exclusivamente para fins educacionais em ambientes controlados. O uso de keyloggers em sistemas sem autorização explícita é **ILEGAL** na maioria das jurisdições.
+** AVISO IMPORTANTE**: Este projeto é exclusivamente para fins educacionais em ambientes controlados. O uso de keyloggers em sistemas sem autorização explícita é **ILEGAL** na maioria das jurisdições.
 
 ---
 
-## 🎯 Objetivos do Projeto
+##  Objetivos do Projeto
 
 - Compreender o funcionamento técnico de keyloggers
 - Implementar captura de teclas usando a biblioteca `pynput`
@@ -98,7 +98,7 @@ Este projeto apresenta uma implementação educacional de um keylogger em Python
 
 ---
 
-## 📁 Estrutura do Projeto
+##  Estrutura do Projeto
 
 ```
 Keylogger/
@@ -114,7 +114,7 @@ Keylogger/
 
 ---
 
-## 🔧 Requisitos do Sistema
+##  Requisitos do Sistema
 
 ### Dependências de Software
 
@@ -125,9 +125,9 @@ Keylogger/
 
 ### Sistemas Operacionais Suportados
 
-- ✅ Windows 10/11
-- ✅ Linux (Ubuntu, Debian, Fedora, etc.)
-- ✅ macOS
+-  Windows 10/11
+-  Linux (Ubuntu, Debian, Fedora, etc.)
+-  macOS
 
 ### Requisitos de Hardware
 
@@ -137,7 +137,7 @@ Keylogger/
 
 ---
 
-## 📦 Instalação
+## Instalação
 
 ### 1. Clonar o Repositório
 
@@ -178,7 +178,7 @@ python -c "import pynput; print('pynput instalado com sucesso')"
 
 ---
 
-## 🚀 Como Usar
+## Como Usar
 
 ### Script 1: Keylogger Básico
 
@@ -285,7 +285,7 @@ Email: usuario@empresa.com
 
 ---
 
-## 📊 Arquivos de Log
+##  Arquivos de Log
 
 Os scripts geram arquivos de log contendo as teclas capturadas:
 
@@ -307,7 +307,7 @@ Telefone: (11) 98765-4321
 
 ---
 
-## 🛡️ Medidas de Defesa
+##  Medidas de Defesa
 
 Para informações detalhadas sobre como se defender contra keyloggers, consulte o arquivo `Medidas_de_Defesa_Keylogger.md`.
 
@@ -323,17 +323,17 @@ Para informações detalhadas sobre como se defender contra keyloggers, consulte
 
 ### Boas Práticas
 
-- ✅ Manter antivírus e firewall ativados
-- ✅ Instalar atualizações de segurança regularmente
-- ✅ Usar senhas fortes e únicas
-- ✅ Ativar autenticação multifator
-- ✅ Desconfiar de e-mails suspeitos
-- ✅ Usar teclado virtual para dados sensíveis
-- ✅ Monitorar atividade de rede
+-  Manter antivírus e firewall ativados
+-  Instalar atualizações de segurança regularmente
+-  Usar senhas fortes e únicas
+-  Ativar autenticação multifator
+-  Desconfiar de e-mails suspeitos
+-  Usar teclado virtual para dados sensíveis
+-  Monitorar atividade de rede
 
 ---
 
-## 🔍 Análise Técnica
+## Análise Técnica
 
 ### Funcionamento do Keylogger
 
@@ -389,7 +389,7 @@ server.send_message(msg)
 
 ---
 
-## 🧪 Testes e Validação
+## Testes e Validação
 
 ### Teste 1: Captura Básica
 
@@ -436,7 +436,7 @@ E-mail recebido com os dados capturados.
 
 ---
 
-## 📚 Recursos Educacionais
+## Recursos Educacionais
 
 ### Conceitos Relacionados
 
@@ -455,7 +455,7 @@ E-mail recebido com os dados capturados.
 
 ---
 
-## ⚖️ Considerações Legais e Éticas
+## Considerações Legais e Éticas
 
 ### Aviso Legal
 
@@ -463,17 +463,17 @@ Este projeto é fornecido **exclusivamente para fins educacionais** em ambientes
 
 **É ILEGAL:**
 
-- ❌ Usar keyloggers em sistemas sem autorização explícita
-- ❌ Capturar dados pessoais ou financeiros de terceiros
-- ❌ Violar privacidade de outras pessoas
-- ❌ Usar para fins criminosos
+-  Usar keyloggers em sistemas sem autorização explícita
+-  Capturar dados pessoais ou financeiros de terceiros
+-  Violar privacidade de outras pessoas
+-  Usar para fins criminosos
 
 **Uso Permitido:**
 
-- ✅ Pesquisa em ambientes controlados
-- ✅ Educação em cibersegurança
-- ✅ Testes de segurança com permissão
-- ✅ Análise forense autorizada
+-  Pesquisa em ambientes controlados
+-  Educação em cibersegurança
+-  Testes de segurança com permissão
+-  Análise forense autorizada
 
 ### Conformidade
 
@@ -486,7 +486,7 @@ Este projeto respeita as seguintes regulamentações:
 
 ---
 
-## 🤝 Contribuindo
+## Contribuindo
 
 Contribuições são bem-vindas! Para contribuir:
 
@@ -498,19 +498,19 @@ Contribuições são bem-vindas! Para contribuir:
 
 ---
 
-## 📝 Licença
+## Licença
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo `LICENSE` para detalhes.
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
-**Seu Nome** - Projeto de Cibersegurança Educacional
+**Giuliano Dantas** - Projeto de Cibersegurança Educacional
 
 ---
 
-## 🔗 Links Úteis
+## Links Úteis
 
 - [Documentação do pynput](https://pynput.readthedocs.io/)
 - [Documentação do smtplib](https://docs.python.org/3/library/smtplib.html)
@@ -519,7 +519,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo `LICENSE` para
 
 ---
 
-## 📞 Suporte
+## Suporte
 
 Para dúvidas ou problemas:
 
@@ -529,7 +529,7 @@ Para dúvidas ou problemas:
 
 ---
 
-## 🎓 Conclusão
+## Conclusão
 
 Este projeto fornece uma compreensão prática de como keyloggers funcionam e como se defender contra eles. A educação em cibersegurança é fundamental para criar um ambiente digital mais seguro. Use este conhecimento de forma responsável e ética.
 
