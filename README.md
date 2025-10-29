@@ -1,4 +1,4 @@
-# Projeto de Simulação de Ransomware em Python
+# Projeto Educacional: Simulação de Ransomware em Python
 
 ## Visão Geral
 
@@ -77,7 +77,7 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo `LICENSE` para 
 *********
 *********
 
-# Projeto Educacional: Keylogger Simulado em Python
+# Projeto Educacional: Simulação de Keylogger em Python
 
 ## 📋 Visão Geral
 
